@@ -1,5 +1,5 @@
 .header{
-    background-color: #d4af37;
+    background-color: gold;
     display:flex;
     justify-content: right;
 }
@@ -7,11 +7,12 @@
     display:flex;
     justify-content:flex-end;
 }
-.header{
-    padding: 20px;
-    margin: 20px;
+a:link{
+    color:red;
 }
-.grid{
-    padding: 20px;
-    margin: 0px;
+a:visited{
+    color:indianred;
+}
+.origami:hover{
+    transform: scale(1.2);
 }
