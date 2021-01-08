@@ -1,5 +1,5 @@
 .header{
-    background-color: gold;
+    background-color: orange;
     display:flex;
     justify-content: right;
 }
@@ -13,6 +13,6 @@ a:link{
 a:visited{
     color:indianred;
 }
-.origami:hover{
-    transform: scale(1.2);
+.paths:hover{
+    transform: scale(1.1);
 }
